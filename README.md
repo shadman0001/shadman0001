@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shadmanshahriar/) 
+[![Whatsapp](https://img.shields.io/badge/whatsapp-1DA1F2?style=flat-square&logo=whatsapp&logoColor=white)](http://https//:we.me/1722158353)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/shadman0001)
