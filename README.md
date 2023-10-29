@@ -1,8 +1,14 @@
 ### Hi there 👋
+I AM SHADMAN SHAHRIAR & I AM AN ELECTRONICS ENGINEER
 
+![altiumdesigner](https://img.shields.io/badge/altiumdesigner-0077B5?style=flat-square&logo=altiumdesigner&logoColor=white)
+![easyeda](https://img.shields.io/badge/easyeda-0077B5?style=flat-square&logo=easyeda&logoColor=white)
+![arduino](https://img.shields.io/badge/arduino-0077B5?style=flat-square&logo=arduino&logoColor=white)
+![kicad](https://img.shields.io/badge/kicad-0077B5?style=flat-square&logo=kicad&logoColor=white)
+
+I have over 10 years of experience in electronic design and development. I am skilled in tools like Altium, Eagle, Proteus, and EasyEDA. My expertise includes microcontroller programming and embedded systems design. I also have experience in manufacturing, quality assurance, and collaborating with software engineers. I am highly motivated, deadline-oriented, and focused on delivering high-quality results.  
 <!--
 **shadman0001/shadman0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 Here are some ideas to get you started: 
 
 - 🔭 I’m currently working on ...
