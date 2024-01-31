@@ -17,5 +17,5 @@ I have over 10 years of experience in electronic design and development. I am sk
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shadmanshahriar/) 
 [![Whatsapp](https://img.shields.io/badge/whatsapp-1DA1F2?style=flat-square&logo=whatsapp&logoColor=white)](http://https//:we.me/1722158353)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/shadman0001)
-[![Fiverr](https://img.shields.io/badge/Fiverr-0077B5?style=flat-square&logo=fiverr&logoColor=green)](https://www.fiverr.com/shadman0001) 
-[![Upwork](https://img.shields.io/badge/Upwork-0077B5?style=flat-square&logo=upwork&logoColor=green)](https://www.upwork.com/freelancers/~01cf82cc2ba875ae5d) 
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat-square&logo=fiverr&logoColor=white)](https://www.fiverr.com/shadman0001) 
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01cf82cc2ba875ae5d) 
